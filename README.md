@@ -15,7 +15,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
 ```
-Всю работу можно выполнить в jupyter notebook
+Всю работу можно (и крайне рекомендуется) выполнить в jupyter notebook
 
 ## Изучение датасета
 1. Запустить Jupyter Notebook
