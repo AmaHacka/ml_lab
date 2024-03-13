@@ -15,7 +15,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
 ```
-Всю работу можно (и крайне рекомендуется) выполнить в jupyter notebook
+Всю работу можно выполнить в jupyter notebook. Ваша задача - подготовить классификатор, 
+который бы по входным данным определял, выживет ли пассажил или нет.
 
 ## Изучение датасета
 1. Запустить Jupyter Notebook
